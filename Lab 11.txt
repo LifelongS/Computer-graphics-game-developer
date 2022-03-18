@@ -1,5 +1,4 @@
 Shader "Custom/Lab11"
-// Shader "Graphics Lab/Lab 11"
 {
 	Properties{
 			_Color("Tint", Color) = (0, 0, 0, 1)
